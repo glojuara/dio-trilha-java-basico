@@ -18,6 +18,8 @@ public class ContadorDinamico {
 
         contar(parametro1, parametro2);
 
+        terminal.close();
+
 
     }
 

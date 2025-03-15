@@ -23,6 +23,7 @@ public class Main {
         ContaTerminal contaTerminal = contaTerminalBuilder.build();
 
         System.out.println("Conta criada com sucesso: " + contaTerminal);
+        scanner.close();
     }
 
 
